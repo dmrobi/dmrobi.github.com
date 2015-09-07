@@ -1,0 +1,61 @@
+body{
+	padding-bottom: 0!important;
+}
+.navbar-inverse{
+	background-color: rgba(0, 0, 0, 0.75);
+}
+.navbar-brand{
+	padding-top: 10px;
+}
+
+.browser{
+	position: relative;
+	bottom: -200;
+}
+.carousel-caption{
+	padding-bottom: 0;
+	bottom: 0;
+}
+.carousel{
+	margin-bottom: 0px!important;
+}
+
+
+.web_ui{
+	width: 82px;
+	height: 82px;
+	background-image: url("../images/service_icons.png");
+	background-position: 0;
+}
+.web_app{
+	width: 82px;
+	height: 82px;
+	background-image: url("../images/service_icons.png");
+	background-position: -82px 0;
+}
+.motion{
+	width: 82px;
+	height: 82px;
+	background-image: url("../images/service_icons.png");
+	background-position: right;
+}
+
+.servies{
+	background-color: #f4f4f4;
+	padding: 60px 0;
+}
+
+.footer{
+	background-color: #eeeeee;
+	padding: 20px 0;
+}
+.icon-facebook-circled{
+
+}
+.icon-twitter-circled{
+
+}
+
+#slider-nav{
+	margin-top: -100px;
+}
